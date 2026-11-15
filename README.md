@@ -1,4 +1,3 @@
-# Switch_Ai
 # Switchboard — Created by Vijay Dodiya
 
 A multi-provider AI workspace for ChatGPT/OpenAI, Claude, Gemini and OpenRouter. Projects and complete conversations are saved in a server-side SQLite database, so changing AI providers or signing in from another device does not clear the project history.
